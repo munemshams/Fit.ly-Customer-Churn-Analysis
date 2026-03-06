@@ -59,10 +59,14 @@ The analysis uses three datasets:
 
 # Files Included
 
+# Files Included
+
 | File | Description |
 |-----|-------------|
 | `fitly_churn_analysis.Rmd` | R Markdown notebook containing the full data cleaning, feature engineering, and analysis workflow |
-| `fitly_customer_churn_report.pdf` | Written report summarizing the analysis, insights, and recommendations |
+| `fitly_churn_analysis.html` | Knitted HTML output of the R Markdown analysis for easy viewing |
+| `fitly_customer_churn_report.pdf` | Final written report summarizing the analysis, insights, and business recommendations |
+| `fitly_customer_churn_report.docx` | Knitted word document output of the R Markdown analysis |
 | `Fit.ly Customer Churn Analysis.pptx` | Presentation slides used for the project presentation |
 | `README.md` | Project documentation and overview |
 
