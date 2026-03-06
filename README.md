@@ -68,6 +68,7 @@ The analysis uses three datasets:
 | `fitly_customer_churn_report.pdf` | Final written report summarizing the analysis, insights, and business recommendations |
 | `fitly_customer_churn_report.docx` | Knitted word document output of the R Markdown analysis |
 | `Fit.ly Customer Churn Analysis.pptx` | Presentation slides used for the project presentation |
+| `Visuals` | A folder containing the generated visuals |
 | `README.md` | Project documentation and overview |
 
 # Video Presentation
